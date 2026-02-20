@@ -24,10 +24,13 @@ Get the latest version here: https://github.com/YashmithPankaja/UnitoFM/releases
 
 ### Installation Steps
 
-1. Download UnitoFM.zip from the link above  
-2. Double-click the zip to extract UnitoFM.app  
-3. Move UnitoFM.app to your Applications folder (or wherever you want)  
-4. Double-click to open it
+1. Download UnitoFM.dmg from the release above.
+2. Double-click the UnitoFM.dmg file (it will open like a virtual disk – you might see a window with UnitoFM.app inside)
+3. Drag UnitoFM.app from that window to your Applications folder. (You may need to enter your Mac password if asked – this is normal for copying to Applications)
+5. Wait for the copy to finish (it takes a few seconds)
+6. Close the .dmg window and eject the UnitoFM disk (click the eject icon next to it in Finder sidebar, or drag it to Trash)
+7. You can delete the UnitoFM.dmg file if you want – you don't need it anymore
+8. Go to Applications folder and double-click UnitoFM.app to open it
 
 > **macOS Security Note**: If you see "UnitoFM is from an unidentified developer", right-click the app → **Open** → click **Open** in the popup. (Normal for apps outside the Mac App Store - it won't happen again after the first time.)
 
