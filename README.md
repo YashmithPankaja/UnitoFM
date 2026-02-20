@@ -20,7 +20,7 @@ I made this mainly for my own use and tested it personally. If it helps anyone e
 
 ### Download
 
-Get the latest version here: [UnitoFM.zip](https://github.com/user-attachments/files/25373542/UnitoFM.zip) 
+Get the latest version here: https://github.com/YashmithPankaja/UnitoFM/releases
 (It's UnitoFM.app.zip - unzip and drag to Applications)
 
 ### Installation Steps
